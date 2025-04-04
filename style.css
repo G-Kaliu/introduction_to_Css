@@ -1,0 +1,19 @@
+*{
+    background-color: darkseagreen;
+}
+
+header{
+    background-color: black;
+    color: blueviolet;
+}
+p{
+   font-size: medium;
+   margin:15px; /*space
+   padding: 10px; /*space inside*/
+   border: 1;
+   font-style: italic;
+}
+#about{
+    text-align: center;
+    color: darkblue;
+}
